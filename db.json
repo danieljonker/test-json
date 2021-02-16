@@ -39,6 +39,10 @@
         }
       },
       {
+        "type": "advert",
+        "url": "advert/url"
+      },
+      {
         "id": "3",
         "type": "weblink",
         "headline": "Weblink headline",
